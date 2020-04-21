@@ -22,4 +22,6 @@ defmodule Tetris.Brick do
     |> Enum.shuffle
     |> List.first
   end
+
+  
 end
